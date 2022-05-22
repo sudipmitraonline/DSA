@@ -1,5 +1,3 @@
-package sudipmitra.reversearray;
-
 import java.util.Scanner;
 
 public class ReverseArray {
